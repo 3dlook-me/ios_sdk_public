@@ -1,0 +1,55 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name LookCamera -package-name lookcamera
+import AVFoundation
+import Combine
+import CoreMotion
+import DeveloperToolsSupport
+import Foundation
+import Foundation/*.Bundle*/
+import Foundation/*.ProcessInfo*/
+import Foundation/*.URL*/
+import Photos
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+
+public struct AlertError {
+  public var title: Swift.String
+  public var message: Swift.String
+  public var primaryButtonTitle: Swift.String
+  public var secondaryButtonTitle: Swift.String?
+  public var primaryAction: (() -> ())?
+  public var secondaryAction: (() -> ())?
+  public init(title: Swift.String = "", message: Swift.String = "", primaryButtonTitle: Swift.String = "Accept", secondaryButtonTitle: Swift.String? = nil, primaryAction: (() -> ())? = nil, secondaryAction: (() -> ())? = nil)
+}
+
+public enum CameraMode {
+  case startFromTutorial
+  case frontOnly
+  case sideOnly
+  case frontAndSideOnly
+  public static func == (a: LookCamera.CameraMode, b: LookCamera.CameraMode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct CapturedResult {
+  public let frontPhoto: Foundation.URL?
+  public let sidePhoto: Foundation.URL?
+}
+@_hasMissingDesignatedInitializers public class LookCameraSDK {
+  public static let shared: LookCamera.LookCameraSDK
+  public func presentSDKView(from viewController: UIKit.UIViewController? = nil, mode: LookCamera.CameraMode, onCompletion: @escaping (LookCamera.CapturedResult) -> Swift.Void)
+  @objc deinit
+}
+
+
+
+
+extension LookCamera.CameraMode : Swift.Equatable {}
+extension LookCamera.CameraMode : Swift.Hashable {}

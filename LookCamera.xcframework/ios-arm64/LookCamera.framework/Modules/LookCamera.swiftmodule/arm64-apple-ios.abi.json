@@ -1,0 +1,2349 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "LookCamera",
+    "printedName": "LookCamera",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AlertError",
+        "printedName": "AlertError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "title",
+            "printedName": "title",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera10AlertErrorV5titleSSvp",
+            "mangledName": "$s10LookCamera10AlertErrorV5titleSSvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV5titleSSvg",
+                "mangledName": "$s10LookCamera10AlertErrorV5titleSSvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV5titleSSvs",
+                "mangledName": "$s10LookCamera10AlertErrorV5titleSSvs",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV5titleSSvM",
+                "mangledName": "$s10LookCamera10AlertErrorV5titleSSvM",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "message",
+            "printedName": "message",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera10AlertErrorV7messageSSvp",
+            "mangledName": "$s10LookCamera10AlertErrorV7messageSSvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV7messageSSvg",
+                "mangledName": "$s10LookCamera10AlertErrorV7messageSSvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV7messageSSvs",
+                "mangledName": "$s10LookCamera10AlertErrorV7messageSSvs",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV7messageSSvM",
+                "mangledName": "$s10LookCamera10AlertErrorV7messageSSvM",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "primaryButtonTitle",
+            "printedName": "primaryButtonTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera10AlertErrorV18primaryButtonTitleSSvp",
+            "mangledName": "$s10LookCamera10AlertErrorV18primaryButtonTitleSSvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV18primaryButtonTitleSSvg",
+                "mangledName": "$s10LookCamera10AlertErrorV18primaryButtonTitleSSvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV18primaryButtonTitleSSvs",
+                "mangledName": "$s10LookCamera10AlertErrorV18primaryButtonTitleSSvs",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV18primaryButtonTitleSSvM",
+                "mangledName": "$s10LookCamera10AlertErrorV18primaryButtonTitleSSvM",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "secondaryButtonTitle",
+            "printedName": "secondaryButtonTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvp",
+            "mangledName": "$s10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvg",
+                "mangledName": "$s10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvs",
+                "mangledName": "$s10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvs",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvM",
+                "mangledName": "$s10LookCamera10AlertErrorV20secondaryButtonTitleSSSgvM",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "primaryAction",
+            "printedName": "primaryAction",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera10AlertErrorV13primaryActionyycSgvp",
+            "mangledName": "$s10LookCamera10AlertErrorV13primaryActionyycSgvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV13primaryActionyycSgvg",
+                "mangledName": "$s10LookCamera10AlertErrorV13primaryActionyycSgvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV13primaryActionyycSgvs",
+                "mangledName": "$s10LookCamera10AlertErrorV13primaryActionyycSgvs",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV13primaryActionyycSgvM",
+                "mangledName": "$s10LookCamera10AlertErrorV13primaryActionyycSgvM",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "secondaryAction",
+            "printedName": "secondaryAction",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera10AlertErrorV15secondaryActionyycSgvp",
+            "mangledName": "$s10LookCamera10AlertErrorV15secondaryActionyycSgvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV15secondaryActionyycSgvg",
+                "mangledName": "$s10LookCamera10AlertErrorV15secondaryActionyycSgvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV15secondaryActionyycSgvs",
+                "mangledName": "$s10LookCamera10AlertErrorV15secondaryActionyycSgvs",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera10AlertErrorV15secondaryActionyycSgvM",
+                "mangledName": "$s10LookCamera10AlertErrorV15secondaryActionyycSgvM",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(title:message:primaryButtonTitle:secondaryButtonTitle:primaryAction:secondaryAction:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AlertError",
+                "printedName": "LookCamera.AlertError",
+                "usr": "s:10LookCamera10AlertErrorV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10LookCamera10AlertErrorV5title7message18primaryButtonTitle09secondaryhI00G6Action0jK0ACSS_S3SSgyycSgAKtcfc",
+            "mangledName": "$s10LookCamera10AlertErrorV5title7message18primaryButtonTitle09secondaryhI00G6Action0jK0ACSS_S3SSgyycSgAKtcfc",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10LookCamera10AlertErrorV",
+        "mangledName": "$s10LookCamera10AlertErrorV",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreMotion",
+        "printedName": "CoreMotion",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CameraMode",
+        "printedName": "CameraMode",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "startFromTutorial",
+            "printedName": "startFromTutorial",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LookCamera.CameraMode.Type) -> LookCamera.CameraMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraMode",
+                    "printedName": "LookCamera.CameraMode",
+                    "usr": "s:10LookCamera0B4ModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LookCamera.CameraMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CameraMode",
+                        "printedName": "LookCamera.CameraMode",
+                        "usr": "s:10LookCamera0B4ModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10LookCamera0B4ModeO17startFromTutorialyA2CmF",
+            "mangledName": "$s10LookCamera0B4ModeO17startFromTutorialyA2CmF",
+            "moduleName": "LookCamera"
+          },
+          {
+            "kind": "Var",
+            "name": "frontOnly",
+            "printedName": "frontOnly",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LookCamera.CameraMode.Type) -> LookCamera.CameraMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraMode",
+                    "printedName": "LookCamera.CameraMode",
+                    "usr": "s:10LookCamera0B4ModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LookCamera.CameraMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CameraMode",
+                        "printedName": "LookCamera.CameraMode",
+                        "usr": "s:10LookCamera0B4ModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10LookCamera0B4ModeO9frontOnlyyA2CmF",
+            "mangledName": "$s10LookCamera0B4ModeO9frontOnlyyA2CmF",
+            "moduleName": "LookCamera"
+          },
+          {
+            "kind": "Var",
+            "name": "sideOnly",
+            "printedName": "sideOnly",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LookCamera.CameraMode.Type) -> LookCamera.CameraMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraMode",
+                    "printedName": "LookCamera.CameraMode",
+                    "usr": "s:10LookCamera0B4ModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LookCamera.CameraMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CameraMode",
+                        "printedName": "LookCamera.CameraMode",
+                        "usr": "s:10LookCamera0B4ModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10LookCamera0B4ModeO8sideOnlyyA2CmF",
+            "mangledName": "$s10LookCamera0B4ModeO8sideOnlyyA2CmF",
+            "moduleName": "LookCamera"
+          },
+          {
+            "kind": "Var",
+            "name": "frontAndSideOnly",
+            "printedName": "frontAndSideOnly",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LookCamera.CameraMode.Type) -> LookCamera.CameraMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CameraMode",
+                    "printedName": "LookCamera.CameraMode",
+                    "usr": "s:10LookCamera0B4ModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LookCamera.CameraMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CameraMode",
+                        "printedName": "LookCamera.CameraMode",
+                        "usr": "s:10LookCamera0B4ModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10LookCamera0B4ModeO16frontAndSideOnlyyA2CmF",
+            "mangledName": "$s10LookCamera0B4ModeO16frontAndSideOnlyyA2CmF",
+            "moduleName": "LookCamera"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CameraMode",
+                "printedName": "LookCamera.CameraMode",
+                "usr": "s:10LookCamera0B4ModeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CameraMode",
+                "printedName": "LookCamera.CameraMode",
+                "usr": "s:10LookCamera0B4ModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10LookCamera0B4ModeO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s10LookCamera0B4ModeO2eeoiySbAC_ACtFZ",
+            "moduleName": "LookCamera",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera0B4ModeO9hashValueSivp",
+            "mangledName": "$s10LookCamera0B4ModeO9hashValueSivp",
+            "moduleName": "LookCamera",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera0B4ModeO9hashValueSivg",
+                "mangledName": "$s10LookCamera0B4ModeO9hashValueSivg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10LookCamera0B4ModeO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s10LookCamera0B4ModeO4hash4intoys6HasherVz_tF",
+            "moduleName": "LookCamera",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10LookCamera0B4ModeO",
+        "mangledName": "$s10LookCamera0B4ModeO",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CapturedResult",
+        "printedName": "CapturedResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "frontPhoto",
+            "printedName": "frontPhoto",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera14CapturedResultV10frontPhoto10Foundation3URLVSgvp",
+            "mangledName": "$s10LookCamera14CapturedResultV10frontPhoto10Foundation3URLVSgvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.URL?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "URL",
+                        "printedName": "Foundation.URL",
+                        "usr": "s:10Foundation3URLV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera14CapturedResultV10frontPhoto10Foundation3URLVSgvg",
+                "mangledName": "$s10LookCamera14CapturedResultV10frontPhoto10Foundation3URLVSgvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sidePhoto",
+            "printedName": "sidePhoto",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera14CapturedResultV9sidePhoto10Foundation3URLVSgvp",
+            "mangledName": "$s10LookCamera14CapturedResultV9sidePhoto10Foundation3URLVSgvp",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.URL?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "URL",
+                        "printedName": "Foundation.URL",
+                        "usr": "s:10Foundation3URLV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera14CapturedResultV9sidePhoto10Foundation3URLVSgvg",
+                "mangledName": "$s10LookCamera14CapturedResultV9sidePhoto10Foundation3URLVSgvg",
+                "moduleName": "LookCamera",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10LookCamera14CapturedResultV",
+        "mangledName": "$s10LookCamera14CapturedResultV",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LookCameraSDK",
+        "printedName": "LookCameraSDK",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LookCameraSDK",
+                "printedName": "LookCamera.LookCameraSDK",
+                "usr": "s:10LookCamera0aB3SDKC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10LookCamera0aB3SDKC6sharedACvpZ",
+            "mangledName": "$s10LookCamera0aB3SDKC6sharedACvpZ",
+            "moduleName": "LookCamera",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LookCameraSDK",
+                    "printedName": "LookCamera.LookCameraSDK",
+                    "usr": "s:10LookCamera0aB3SDKC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10LookCamera0aB3SDKC6sharedACvgZ",
+                "mangledName": "$s10LookCamera0aB3SDKC6sharedACvgZ",
+                "moduleName": "LookCamera",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "presentSDKView",
+            "printedName": "presentSDKView(from:mode:onCompletion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CameraMode",
+                "printedName": "LookCamera.CameraMode",
+                "usr": "s:10LookCamera0B4ModeO"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LookCamera.CapturedResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CapturedResult",
+                    "printedName": "LookCamera.CapturedResult",
+                    "usr": "s:10LookCamera14CapturedResultV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10LookCamera0aB3SDKC14presentSDKView4from4mode12onCompletionySo16UIViewControllerCSg_AA0B4ModeOyAA14CapturedResultVctF",
+            "mangledName": "$s10LookCamera0aB3SDKC14presentSDKView4from4mode12onCompletionySo16UIViewControllerCSg_AA0B4ModeOyAA14CapturedResultVctF",
+            "moduleName": "LookCamera",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10LookCamera0aB3SDKC",
+        "mangledName": "$s10LookCamera0aB3SDKC",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 23,
+      "value": "\"LookCamera_LookCamera\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "kind": "Array",
+      "offset": 965,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "kind": "StringLiteral",
+      "offset": 1492,
+      "length": 9,
+      "value": "\".bundle\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
+      "kind": "StringLiteral",
+      "offset": 1644,
+      "length": 51,
+      "value": "\"unable to find bundle named LookCamera_LookCamera\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1647,
+      "length": 15,
+      "value": "\"Button tapped\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1686,
+      "length": 10,
+      "value": "\"Continue\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1768,
+      "length": 15,
+      "value": "\"Button tapped\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1832,
+      "length": 10,
+      "value": "\"Continue\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Attributed.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 35,
+      "value": "\"https:\/\/3dlook.ai\/privacy-policy\/\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Attributed.swift",
+      "kind": "StringLiteral",
+      "offset": 255,
+      "length": 41,
+      "value": "\"https:\/\/3dlook.ai\/terms-and-conditions\/\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 377,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 775,
+      "length": 23,
+      "value": "\"com.demo.sessionQueue\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7239,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7272,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7308,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7470,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7492,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 7525,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraPreview.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1634,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "kind": "StringLiteral",
+      "offset": 1665,
+      "length": 11,
+      "value": "\"Some text\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1697,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "kind": "StringLiteral",
+      "offset": 1723,
+      "length": 11,
+      "value": "\"Some text\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1755,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CustomToolbar.swift",
+      "kind": "BooleanLiteral",
+      "offset": 225,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CustomToolbar.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2269,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Gyro\/GyroManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 204,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Sound\/SoundPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 5,
+      "value": "\"mp3\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Sound\/VoiceManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 868,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Sound\/VoiceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 921,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "kind": "StringLiteral",
+      "offset": 270,
+      "length": 11,
+      "value": "\"LightGray\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 12,
+      "value": "\"ActiveBlue\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "kind": "StringLiteral",
+      "offset": 482,
+      "length": 12,
+      "value": "\"ActiveBlue\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "kind": "FloatLiteral",
+      "offset": 530,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 125,
+      "length": 16,
+      "value": "\"Roboto-Regular\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 160,
+      "length": 15,
+      "value": "\"Roboto-Medium\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 192,
+      "length": 13,
+      "value": "\"Roboto-Bold\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 810,
+      "length": 16,
+      "value": "\"Roboto-Regular\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 836,
+      "length": 8,
+      "value": "\"Roboto\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 852,
+      "length": 20,
+      "value": "\"Roboto-Regular.ttf\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 924,
+      "length": 15,
+      "value": "\"Roboto-Medium\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 949,
+      "length": 8,
+      "value": "\"Roboto\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 965,
+      "length": 19,
+      "value": "\"Roboto-Medium.ttf\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 1034,
+      "length": 13,
+      "value": "\"Roboto-Bold\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 1057,
+      "length": 8,
+      "value": "\"Roboto\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "kind": "StringLiteral",
+      "offset": 1073,
+      "length": 17,
+      "value": "\"Roboto-Bold.ttf\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 364,
+      "length": 11,
+      "value": "\"ic_shield\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 438,
+      "length": 9,
+      "value": "\"ic_back\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 10,
+      "value": "\"ic_wrong\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 596,
+      "length": 12,
+      "value": "\"ic_correct\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 710,
+      "length": 16,
+      "value": "\"im_choose_mode\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 822,
+      "length": 24,
+      "value": "\"img_how_to_take_photos\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 903,
+      "length": 15,
+      "value": "\"img_by_myself\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1019,
+      "length": 11,
+      "value": "\"img_front\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1085,
+      "length": 10,
+      "value": "\"img_side\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1196,
+      "length": 17,
+      "value": "\"img_check_sound\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1305,
+      "length": 9,
+      "value": "\"bg_gyro\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1370,
+      "length": 12,
+      "value": "\"arrow_gyro\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1478,
+      "length": 13,
+      "value": "\"frame_front\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 1546,
+      "length": 12,
+      "value": "\"frame_side\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/View+Extensions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 190,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Navigation\/AppCoordinator.swift",
+      "kind": "FloatLiteral",
+      "offset": 318,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Navigation\/AppCoordinator.swift",
+      "kind": "StringLiteral",
+      "offset": 1875,
+      "length": 22,
+      "value": "\"closeCameraSDKModule\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 793,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 837,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 931,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 974,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1314,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/GyroOverlay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 109,
+      "length": 3,
+      "value": "160"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/GyroOverlay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 165,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/ChooseModePage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 114,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/HowToStandPage.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2553,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 12,
+      "value": "\"ActiveBlue\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 768,
+      "length": 11,
+      "value": "\"LightGray\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1013,
+      "length": 12,
+      "value": "\"arrow_gyro\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1148,
+      "length": 9,
+      "value": "\"bg_gyro\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1288,
+      "length": 13,
+      "value": "\"frame_front\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1430,
+      "length": 12,
+      "value": "\"frame_side\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1565,
+      "length": 9,
+      "value": "\"ic_back\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1703,
+      "length": 12,
+      "value": "\"ic_correct\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1842,
+      "length": 11,
+      "value": "\"ic_shield\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1978,
+      "length": 10,
+      "value": "\"ic_wrong\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2124,
+      "length": 16,
+      "value": "\"im_choose_mode\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2274,
+      "length": 15,
+      "value": "\"img_by_myself\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2427,
+      "length": 17,
+      "value": "\"img_check_sound\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2582,
+      "length": 17,
+      "value": "\"img_choose_mode\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2726,
+      "length": 11,
+      "value": "\"img_front\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2887,
+      "length": 24,
+      "value": "\"img_how_to_take_photos\""
+    },
+    {
+      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphoneos\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3036,
+      "length": 10,
+      "value": "\"img_side\""
+    }
+  ]
+}
