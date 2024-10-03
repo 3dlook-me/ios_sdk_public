@@ -26,7 +26,7 @@ Buy adding it into your package
 
 ```swift
 dependencies: [
-        .package(url: "https://github.com/LinkToThisRepo", from: "0.0.1")
+        .package(url: "https://github.com/3dlook-me/ios_sdk_public", from: "0.0.1")
     ]
 ...
 
