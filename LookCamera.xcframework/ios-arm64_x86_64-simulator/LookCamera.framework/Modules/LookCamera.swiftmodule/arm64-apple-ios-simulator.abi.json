@@ -6,54 +6,6 @@
     "children": [
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LookCamera"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LookCamera"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LookCamera"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LookCamera"
-      },
-      {
-        "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
         "declKind": "Import",
@@ -882,38 +834,8 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "CoreMotion",
         "printedName": "CoreMotion",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "LookCamera",
         "declAttributes": [
@@ -934,6 +856,63 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "LookCamera",
         "declAttributes": [
@@ -991,6 +970,107 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFAudio",
+        "printedName": "AVFAudio",
+        "declKind": "Import",
+        "moduleName": "LookCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LookCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "LookCamera",
         "declAttributes": [
@@ -1605,100 +1685,6 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "LookCamera"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "LookCamera"
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftUI",
-        "printedName": "SwiftUI",
-        "declKind": "Import",
-        "moduleName": "LookCamera",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1730,618 +1716,590 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
-      "length": 23,
-      "value": "\"LookCamera_LookCamera\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
-      "kind": "Array",
-      "offset": 965,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
-      "kind": "StringLiteral",
-      "offset": 1492,
-      "length": 9,
-      "value": "\".bundle\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/resource_bundle_accessor.swift",
-      "kind": "StringLiteral",
-      "offset": 1644,
-      "length": 51,
-      "value": "\"unable to find bundle named LookCamera_LookCamera\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
-      "kind": "StringLiteral",
-      "offset": 1647,
-      "length": 15,
-      "value": "\"Button tapped\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
-      "kind": "StringLiteral",
-      "offset": 1686,
-      "length": 10,
-      "value": "\"Continue\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
-      "kind": "StringLiteral",
-      "offset": 1768,
-      "length": 15,
-      "value": "\"Button tapped\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/ActionButton.swift",
-      "kind": "StringLiteral",
-      "offset": 1832,
-      "length": 10,
-      "value": "\"Continue\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Attributed.swift",
-      "kind": "StringLiteral",
-      "offset": 178,
-      "length": 35,
-      "value": "\"https:\/\/3dlook.ai\/privacy-policy\/\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Attributed.swift",
-      "kind": "StringLiteral",
-      "offset": 255,
-      "length": 41,
-      "value": "\"https:\/\/3dlook.ai\/terms-and-conditions\/\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 377,
+      "offset": 407,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 775,
+      "offset": 847,
       "length": 23,
       "value": "\"com.demo.sessionQueue\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7239,
+      "offset": 987,
+      "length": 29,
+      "value": "\"com.demo.configurationQueue\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
+      "kind": "StringLiteral",
+      "offset": 12298,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7272,
+      "offset": 12334,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7308,
+      "offset": 12373,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7470,
+      "offset": 12550,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7492,
+      "offset": 12572,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraManager.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 7525,
+      "offset": 12605,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Camera\/CameraPreview.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Camera\/CameraPreview.swift",
       "kind": "BooleanLiteral",
       "offset": 1634,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Gyro\/GyroManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 204,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Sound\/SoundPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 457,
+      "length": 5,
+      "value": "\"mp3\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1647,
+      "length": 15,
+      "value": "\"Button tapped\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1686,
+      "length": 10,
+      "value": "\"Continue\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1768,
+      "length": 15,
+      "value": "\"Button tapped\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/ActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 1832,
+      "length": 10,
+      "value": "\"Continue\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Attributed.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 35,
+      "value": "\"https:\/\/3dlook.ai\/privacy-policy\/\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/Attributed.swift",
+      "kind": "StringLiteral",
+      "offset": 255,
+      "length": 41,
+      "value": "\"https:\/\/3dlook.ai\/terms-and-conditions\/\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/CheckMark.swift",
       "kind": "StringLiteral",
       "offset": 1665,
       "length": 11,
       "value": "\"Some text\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/CheckMark.swift",
       "kind": "BooleanLiteral",
       "offset": 1697,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/CheckMark.swift",
       "kind": "StringLiteral",
       "offset": 1723,
       "length": 11,
       "value": "\"Some text\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CheckMark.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/CheckMark.swift",
       "kind": "BooleanLiteral",
       "offset": 1755,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CustomToolbar.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/CustomToolbar.swift",
       "kind": "BooleanLiteral",
       "offset": 225,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/CustomToolbar.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Components\/CustomToolbar.swift",
       "kind": "BooleanLiteral",
       "offset": 2269,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Gyro\/GyroManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 204,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Sound\/SoundPlayer.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Colors.swift",
       "kind": "StringLiteral",
-      "offset": 585,
-      "length": 5,
-      "value": "\"mp3\""
+      "offset": 368,
+      "length": 7,
+      "value": "\"lGray\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Sound\/VoiceManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 868,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Components\/Sound\/VoiceManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 921,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Colors.swift",
       "kind": "StringLiteral",
-      "offset": 270,
-      "length": 11,
-      "value": "\"LightGray\""
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
-      "kind": "StringLiteral",
-      "offset": 406,
+      "offset": 500,
       "length": 12,
       "value": "\"ActiveBlue\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Colors.swift",
       "kind": "StringLiteral",
-      "offset": 482,
+      "offset": 576,
       "length": 12,
       "value": "\"ActiveBlue\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Colors.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Colors.swift",
       "kind": "FloatLiteral",
-      "offset": 530,
+      "offset": 624,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 16,
       "value": "\"Roboto-Regular\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 160,
       "length": 15,
       "value": "\"Roboto-Medium\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 192,
       "length": 13,
       "value": "\"Roboto-Bold\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 810,
       "length": 16,
       "value": "\"Roboto-Regular\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 836,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 852,
       "length": 20,
       "value": "\"Roboto-Regular.ttf\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 924,
       "length": 15,
       "value": "\"Roboto-Medium\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 949,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 965,
       "length": 19,
       "value": "\"Roboto-Medium.ttf\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1034,
       "length": 13,
       "value": "\"Roboto-Bold\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1057,
       "length": 8,
       "value": "\"Roboto\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Fonts.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Fonts.swift",
       "kind": "StringLiteral",
       "offset": 1073,
       "length": 17,
       "value": "\"Roboto-Bold.ttf\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 11,
       "value": "\"ic_shield\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 438,
+      "offset": 436,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 520,
+      "offset": 518,
       "length": 10,
       "value": "\"ic_wrong\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 596,
+      "offset": 594,
       "length": 12,
       "value": "\"ic_correct\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 710,
+      "offset": 687,
+      "length": 18,
+      "value": "\"ic_camera_access\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
+      "kind": "StringLiteral",
+      "offset": 807,
       "length": 16,
       "value": "\"im_choose_mode\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 822,
+      "offset": 919,
       "length": 24,
       "value": "\"img_how_to_take_photos\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 903,
+      "offset": 1000,
       "length": 15,
       "value": "\"img_by_myself\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1019,
+      "offset": 1116,
       "length": 11,
       "value": "\"img_front\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1085,
+      "offset": 1182,
       "length": 10,
       "value": "\"img_side\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1196,
+      "offset": 1293,
       "length": 17,
       "value": "\"img_check_sound\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1305,
+      "offset": 1402,
       "length": 9,
       "value": "\"bg_gyro\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1370,
+      "offset": 1467,
       "length": 12,
       "value": "\"arrow_gyro\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1478,
+      "offset": 1575,
       "length": 13,
       "value": "\"frame_front\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/Images.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/Images.swift",
       "kind": "StringLiteral",
-      "offset": 1546,
+      "offset": 1643,
       "length": 12,
       "value": "\"frame_side\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Extensions\/View+Extensions.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Extensions\/View+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 190,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Navigation\/AppCoordinator.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Navigation\/AppCoordinator.swift",
       "kind": "FloatLiteral",
       "offset": 318,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Navigation\/AppCoordinator.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Navigation\/AppCoordinator.swift",
       "kind": "StringLiteral",
       "offset": 1875,
       "length": 22,
       "value": "\"closeCameraSDKModule\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/CameraPage\/CameraPageViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 793,
+      "offset": 939,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 837,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/CameraPage\/CameraPageViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 931,
+      "offset": 1033,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/CameraPage\/CameraPageViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 974,
+      "offset": 1076,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/CameraPageViewModel.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/CameraPage\/CameraPageViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1314,
+      "offset": 1416,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/GyroOverlay.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/CameraPage\/GyroOverlay.swift",
       "kind": "IntegerLiteral",
       "offset": 109,
       "length": 3,
       "value": "160"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/CameraPage\/GyroOverlay.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/CameraPage\/GyroOverlay.swift",
       "kind": "IntegerLiteral",
       "offset": 165,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/ChooseModePage.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/ChooseModePage.swift",
       "kind": "BooleanLiteral",
       "offset": 114,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/Sources\/LookCamera\/Pages\/HowToStandPage.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Documents\/LookSDK\/LookCamera\/LookCamera\/Source\/Pages\/HowToStandPage.swift",
       "kind": "IntegerLiteral",
       "offset": 2553,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 628,
       "length": 12,
       "value": "\"ActiveBlue\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 768,
-      "length": 11,
-      "value": "\"LightGray\""
+      "offset": 760,
+      "length": 7,
+      "value": "\"lGray\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1013,
+      "offset": 1001,
       "length": 12,
       "value": "\"arrow_gyro\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1148,
+      "offset": 1136,
       "length": 9,
       "value": "\"bg_gyro\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1288,
+      "offset": 1276,
       "length": 13,
       "value": "\"frame_front\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1430,
+      "offset": 1418,
       "length": 12,
       "value": "\"frame_side\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1565,
+      "offset": 1553,
       "length": 9,
       "value": "\"ic_back\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1703,
+      "offset": 1702,
+      "length": 18,
+      "value": "\"ic_camera_access\""
+    },
+    {
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1849,
       "length": 12,
       "value": "\"ic_correct\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1842,
+      "offset": 1988,
       "length": 11,
       "value": "\"ic_shield\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1978,
+      "offset": 2124,
       "length": 10,
       "value": "\"ic_wrong\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2124,
+      "offset": 2270,
       "length": 16,
       "value": "\"im_choose_mode\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2274,
+      "offset": 2420,
       "length": 15,
       "value": "\"img_by_myself\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2427,
+      "offset": 2573,
       "length": 17,
       "value": "\"img_check_sound\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2582,
+      "offset": 2728,
       "length": 17,
       "value": "\"img_choose_mode\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2726,
+      "offset": 2872,
       "length": 11,
       "value": "\"img_front\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2887,
+      "offset": 3033,
       "length": 24,
       "value": "\"img_how_to_take_photos\""
     },
     {
-      "filePath": "\/Users\/severehed\/Code\/iOSLookCamera\/Modules\/LookCamera\/.build\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/Viktor.Ziukov\/Library\/Developer\/Xcode\/DerivedData\/LookCamera-eergddzmjejnmqhfftycxlycjxon\/Build\/Intermediates.noindex\/ArchiveIntermediates\/LookCamera\/IntermediateBuildFilesPath\/LookCamera.build\/Release-iphonesimulator\/LookCamera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3036,
+      "offset": 3182,
       "length": 10,
       "value": "\"img_side\""
     }

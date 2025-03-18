@@ -1,0 +1,6 @@
+framework module LookCamera {
+  umbrella header "LookCamera.h"
+  export *
+
+  module * { export * }
+}
